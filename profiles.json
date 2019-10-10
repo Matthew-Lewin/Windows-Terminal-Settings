@@ -26,17 +26,20 @@
       "hidden": false,
       "name": "Ubuntu",
       "source": "Windows.Terminal.Wsl",
+      "startingDirectory": "%USERPROFILE%",
       "hidden": false,
+      "icon": "C:\\Users\\mlewin\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\ubuntu_icon.png",
       "closeOnExit": true,
       "colorScheme": "Material Theme Dark",
       "cursorColor": "#FFFFFF",
-      "cursorShape": "bar",
+      "cursorShape": "underscore",
       "fontFace": "IBM Plex Mono",
       "fontSize": 10,
       "historySize": 9001,
       "padding": "8, 8, 8, 8",
-      "snapOnInput": true,
-      "useAcrylic": false
+      "snapOnInput": true
+      /* "useAcrylic": true,
+      "acrylicOpacity": 0.9 */
     },
     {
       "guid": "{b2d6503a-d0e6-5c93-b063-25b165a68977}",
