@@ -12,6 +12,7 @@
       "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
       "name": "Windows PowerShell",
       "commandline": "powershell.exe",
+      "colorScheme": "Material Theme Dark",
       "hidden": false
     },
     {
@@ -59,24 +60,24 @@
   "schemes": [
     {
       "name": "Material Theme Dark",
-      "foreground": "#EEFFFF",
-      "background": "#212121",
+      "foreground": "#ECEFF1",
+      "background": "#171e21",
       "black": "#000000",
-      "red": "#FF5370",
-      "green": "#C3E88D",
-      "yellow": "#FFCB6B",
-      "blue": "#82AAFF",
-      "purple": "#C792EA",
-      "cyan": "#89DDFF",
-      "white": "#ffffff",
-      "brightBlack": "#002B36",
-      "brightRed": "#f07178",
-      "brightGreen": "#586E75",
-      "brightYellow": "#F78C6C",
-      "brightBlue": "#B2CCD6",
-      "brightPurple": "#bb80b3",
-      "brightCyan": "#93A1A1",
-      "brightWhite": "#FDF6E3"
+      "red": "#f44336",
+      "green": "#4caf50",
+      "yellow": "#ffeb3b",
+      "blue": "#2196f3",
+      "purple": "#673ab7",
+      "cyan": "#00bcd4",
+      "white": "#cfd8dc",
+      "brightBlack": "#333333",
+      "brightRed": "#ffcdd2",
+      "brightGreen": "#c8e6c9",
+      "brightYellow": "#fff9c4",
+      "brightBlue": "#bbdefb",
+      "brightPurple": "#d1c4e9",
+      "brightCyan": "#b2ebf2",
+      "brightWhite": "#eceff1"
     }
   ],
 
@@ -84,3 +85,17 @@
   // To unbind a default keybinding, set the command to "unbound"
   "keybindings": []
 }
+
+/* "white": "#ffffff",
+"black": "#000000",
+"red": "#FF5370",
+"orange": "#F78C6C",
+"yellow": "#FFCB6B",
+"green": "#C3E88D",
+"cyan": "#89DDFF",
+"blue": "#82AAFF",
+"paleblue": "#B2CCD6",
+"purple": "#C792EA",
+"brown": "#C17E70",
+"pink": "#f07178",
+"violet": "#bb80b3" */
