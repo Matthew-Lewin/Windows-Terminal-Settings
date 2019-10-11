@@ -4,7 +4,7 @@
 {
   "$schema": "https://aka.ms/terminal-profiles-schema",
 
-  "defaultProfile": "{2c4de342-38b7-51cf-b940-2309a097f518}",
+  "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
 
   "profiles": [
     {
@@ -13,6 +13,9 @@
       "name": "Windows PowerShell",
       "commandline": "powershell.exe",
       "colorScheme": "Material Theme Dark",
+      "icon": "C:\\Users\\mlewin\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\powershell.png",
+      "fontFace": "IBM Plex Mono",
+      "fontSize": 10,
       "hidden": false
     },
     {
@@ -70,7 +73,7 @@
       "purple": "#673ab7",
       "cyan": "#00bcd4",
       "white": "#cfd8dc",
-      "brightBlack": "#333333",
+      "brightBlack": "#78909c",
       "brightRed": "#ffcdd2",
       "brightGreen": "#c8e6c9",
       "brightYellow": "#fff9c4",
