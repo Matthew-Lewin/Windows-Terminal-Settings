@@ -31,6 +31,7 @@
       "name": "Ubuntu",
       "source": "Windows.Terminal.Wsl",
       "startingDirectory": "%USERPROFILE%",
+      "commandline": "wsl ~",
       "hidden": false,
       "icon": "C:\\Users\\mlewin\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\ubuntu_icon.png",
       "closeOnExit": true,
